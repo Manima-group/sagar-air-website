@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sagar Air – website (demo template by Manima)
 
 Marketing site for Sagar Air Pvt Ltd with a scroll-scrubbed product hero:
@@ -68,3 +69,7 @@ Deploy by uploading `dist/` to any static host (Netlify, Vercel, S3/CloudFront, 
 - Connect the contact form (e.g. Formspree, a FastAPI endpoint or ERPNext Lead API).
 - Replace stills with real factory, product and project photography.
 - Add the high-resolution Sagar Air logo (SVG).
+=======
+# sagar-air-website
+we designed the 3d website 
+>>>>>>> 434356e5552ada558a269aaa89d48806d92216a1
