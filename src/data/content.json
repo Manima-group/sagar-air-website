@@ -1,0 +1,686 @@
+{
+ "cats": [
+  {
+   "c": "Desiccant Dehumidifiers",
+   "i": "drop",
+   "items": [
+    {
+     "n": "DewPac Series",
+     "s": "Compact Desiccant Dehumidifiers",
+     "d": "These Desiccant Dehumidification Systems are ideal for providing superior moisture control at low temperatures as well. These units can achieve RH % as low as 10% as per your requirement.",
+     "f": [
+      [
+       "Models",
+       "SDM-70 to SDM-500"
+      ],
+      [
+       "Dehumidification Capacity",
+       "4.6 kg/hr to 35.8 kg/hr"
+      ],
+      [
+       "Controller",
+       "4.5'' display or 7'' touchpad PLC+HMI"
+      ],
+      [
+       "Fans",
+       "Standard FC Centrifugal; EC and Plug optional"
+      ]
+     ]
+    },
+    {
+     "n": "DewFlat Series",
+     "s": "Ultra Compact Desiccant Dehumidifiers",
+     "d": "These Desiccant Dehumidification Systems are ideal for providing superior moisture control at low temperatures as well. These units can achieve RH % as low as 10% as per your requirement.",
+     "f": [
+      [
+       "Capacity",
+       "Ultra Compact Dehumidifiers upto 3500 CFM"
+      ],
+      [
+       "Controller",
+       "4 inch touch screen PLC+HMI"
+      ],
+      [
+       "Fans",
+       "High performance Centrifugal Fans"
+      ],
+      [
+       "Rotor",
+       "Imported, horizontal configuration"
+      ]
+     ]
+    },
+    {
+     "n": "DewPro Series",
+     "s": "AHU Integrated Desiccant Dehumidifiers",
+     "d": "The AHU Integrated Dehumidification System offers Superior temperature and humidity control for critical applications.",
+     "f": [
+      [
+       "Capacity",
+       "200 CFM to 1,00,000+ CFM dehumidification discharge"
+      ],
+      [
+       "Construction",
+       "Aluminium pentapost, PUF insulated Double Skin GI Panels"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "c": "Air Handling Systems",
+   "i": "ahu",
+   "items": [
+    {
+     "n": "SAGM Series",
+     "s": "Comfort Air Handling Units",
+     "d": "We offer a wide range of Air Handling units in multiple orientations customized as per your requirement. The Air Handling Units manufactured are ultra-modern and offer high operation durability and low energy consumption.",
+     "f": [
+      [
+       "Capacities",
+       "From 1000 CFM to 100000+ CFM"
+      ],
+      [
+       "Orientation",
+       "Horizontal Floor mounted / Vertical / Ceiling Suspended Units."
+      ],
+      [
+       "Frame",
+       "Single Skin or Double Skin PUF Panels mounted on Aluminium Pentapost Construction - 25 mm or 40 mm Panels."
+      ],
+      [
+       "Fan Section",
+       "All Kinds of Fans and Blowers - FC/BC/SISW/DIDW/Plug/EC/Belt Driven/Direct Driven etc"
+      ]
+     ]
+    },
+    {
+     "n": "SACR Series",
+     "s": "Clean Room (Hygenic) Air Handling Units",
+     "d": "The Clean Room Air Handling Units meet strict Clean Room Standards for Hygenic Planning, Manufacturing and maintenance.",
+     "f": [
+      [
+       "Capacities",
+       "From 1000 CFM to 100000+ CFM"
+      ],
+      [
+       "Frame",
+       "Double Skin PUF Panels mounted on Aluminium Pentapost Construction - 25 mm or 40 mm Panels with Sound…"
+      ],
+      [
+       "Fan Section",
+       "Plug Fans/EC fans are preferred to others due to easy cleaning and maintenance."
+      ],
+      [
+       "Filter Section",
+       "All kinds of Filters Pre-Filter/Fine Filter/Bag Filter/HEPA Filter/Flange Type Filters/Activated Charcoal…"
+      ]
+     ]
+    },
+    {
+     "n": "SACFT Series",
+     "s": "Air Ventilation Systems",
+     "d": "Sagar Air SACFT series are capable of exhaust and supply air units that can handle very high CFMs. The units consist of a blower with a filtration system encased in a PUF paneled aluminum box section.",
+     "f": [
+      [
+       "Air Discharges",
+       "Can Handle very high CFMs up to and above 1,00,000 CFM."
+      ],
+      [
+       "Static Pressures",
+       "The Units can be designed to overcome statics upto 1500 Pa"
+      ],
+      [
+       "Filtration",
+       "From 20 microns to 0.03 microns"
+      ],
+      [
+       "Construction",
+       "Rigid Aluminium Extruded Profile Construction · Double Skin PUF Insulated 24 mm Panel · GI Casing"
+      ]
+     ]
+    },
+    {
+     "n": "SAPCU Series",
+     "s": "Evaporative Pre-Cooling Systems",
+     "d": "The principle underlying evaporative cooling is the fact that water must have heat applied to it to change from a liquid to a vapor. When evaporation occurs, this heat is taken from the water that remains in the liquid state, resulting in a cooler liquid. This phenomenon could largely descend the temperature of incoming supply sir of the Chiller / Condensing unit thereby reducing the overall cooling load on the Chiller Unit.",
+     "f": [
+      [
+       "Air Discharges",
+       "Can be designed to handle any CFM of the Condenser / Chiller"
+      ],
+      [
+       "Construction",
+       "Rigid Galvanised Iron Casing / Stainless Steel Construction"
+      ],
+      [
+       "Pump Section",
+       "High quality Branded Centrifugal Pump"
+      ],
+      [
+       "Pad Section",
+       "High Quality branded Cellulose pads of CelDek, Eco-cool, huTek make. · Optimum face area and thickness of…"
+      ]
+     ]
+    },
+    {
+     "n": "SAACU-S Series",
+     "s": "Air Washer Units - Single Stage",
+     "d": "Sagar Air offers a wide range of single stage Air Washer Units which are highly reliable, low maintenance, more energy saving at a much lower initial cost.",
+     "f": [
+      [
+       "Capacities",
+       "From 1000 CFM to 100000+ CFM"
+      ],
+      [
+       "Orientation",
+       "Horizontal Floor mounted / Vertical /"
+      ],
+      [
+       "Frame",
+       "Single Skin or Double Skin PUF Panels mounted on Aluminium Pentapost Construction - 25 mm or 40 mm Panels."
+      ],
+      [
+       "Fan Section",
+       "All Kinds of Fans and Blowers - FC/BC/SISW/DIDW/Plug/EC/Belt Driven/Direct Driven etc"
+      ]
+     ]
+    },
+    {
+     "n": "SAACU-D Series",
+     "s": "Air Washer Units - Two Stage",
+     "d": "Two-Stage Air Washer Units are employed in special applications where a further dip in WBT is essential during high ambient heat loads.",
+     "f": [
+      [
+       "Capacities",
+       "From 1000 CFM to 200000+ CFM"
+      ],
+      [
+       "Orientation",
+       "Horizontal Floor mounted / Vertical /"
+      ],
+      [
+       "Frame",
+       "Double Skin PUF Panels mounted on Aluminium Pentapost Construction - 25 mm or 40 mm Panels."
+      ],
+      [
+       "Fan Section",
+       "All Kinds of Fans and Blowers - FC/BC/SISW/DIDW/Plug/EC/Belt Driven/Direct Driven etc"
+      ]
+     ]
+    },
+    {
+     "n": "SAFCU Series",
+     "s": "Fan Coil Units ( FCUs )",
+     "d": "Sagar Air Fan Coil Units have been widely used in Malls, Hospitals, Offices, and Hotels. These units are available in various airflow capacities providing effective cooling.",
+     "f": [
+      [
+       "Capacities",
+       "From 1 TR to 3 TR"
+      ],
+      [
+       "Construction",
+       "Single Skin (standard) / Double Skin"
+      ],
+      [
+       "Casing",
+       "GI metal body powder coated 0.8 mm thk with 6mm closed cell XLPE foam"
+      ],
+      [
+       "Cooling Coil",
+       "Quality copper tube aluminum fin cooling coil- 0.14mm fin thk @ 12-13 fpi. Available in 3R/4R configurations"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "c": "Kitchen Ventilation",
+   "i": "hood",
+   "items": [
+    {
+     "n": "SASU-M / MD / D Series",
+     "s": "Dry and Wet Scrubbing Units",
+     "d": "Kitchen Scrubber is an air washer with a refinement device which is used in cleaning fumes. In this device, the pollutant gas stream is bought in contact with the scrubbing liquid, by spraying it with the liquid, forcing it through a pool of liquid so as to remove the pollutants.",
+     "f": [
+      [
+       "Air Discharges",
+       "Can Handle very high CFMs up to 65,000 CFM."
+      ],
+      [
+       "Construction",
+       "Rigid Aluminium Extruded Profile Construction · Double Skin PUF Insulated 24 mm Panel · GI Casing"
+      ],
+      [
+       "Fan Section",
+       "AMCA Certified BC/FC/Aerofoil/Plug Fans can be offered · TEFC Electric Motor IP55 Type with Class F…"
+      ],
+      [
+       "Pump Section",
+       "Branded Centrifugal pump of ABB / CG / KB"
+      ]
+     ]
+    },
+    {
+     "n": "SABSZ Series",
+     "s": "SISW BC Kitchen Exhaust Centrifugal Fans",
+     "d": "These Fan series consist of heavy-duty backward curved impeller with non-overloading characteristics. These fans are stringently designed to operate at various load characteristics. The blowers are either belt-driven ( for high air flows ) or direct-driven ( for low air flows and low statics ). This whole turbo machinery is CNC fabricated and impellar is dynamically balanced to ensure top notch performance.",
+     "f": [
+      [
+       "Air Discharges",
+       "Belt-Driven can cater CFM upto 2,50,000 CFM · Direct Dirven can cater upto 16,000 CFM"
+      ],
+      [
+       "Static Pressures",
+       "High Statics upto 5000 Pa"
+      ],
+      [
+       "Construction",
+       "Galvanised Iron / Mild Steel with MS Angle Frame · FRP Venturi inlet Cone for increased blower efficiency"
+      ],
+      [
+       "Impeller",
+       "Backward Curved, fully dynamically balanced impeller"
+      ]
+     ]
+    },
+    {
+     "n": "SAKTH Series",
+     "s": "SS Kitchen Hoods with Baffled Grease Filters",
+     "d": "Our Kitchen Exhaust Systems are technically designed for commercial, industrial kitchens where utmost smoke extraction is necessary. The smoke is exhausted by this system leaving the kitchen absolutely neat and tidy. Thus, provides a suitable tidy environment for our chefs to work. Parts of Kitchen Exhaust System are – Suction Hood, Suction Filter, Kitchen Fume Exhaust Duct, Suction Canvas, and a centrifugal Blower.",
+     "f": [
+      [
+       "Mount",
+       "Overhung · Wall Mount"
+      ],
+      [
+       "Construction",
+       "Fully Stainless Steel Construction"
+      ],
+      [
+       "Capturing",
+       "Superior Grease Filters with capturing baffles for oil droplets · Easy Oil removal · low-Pressure drop"
+      ],
+      [
+       "Exhaust Ducting",
+       "TDF · TDC · C & S"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "c": "Industrial Fans & Blowers",
+   "i": "fan",
+   "items": [
+    {
+     "n": "SABMZ / SAMBZ Series",
+     "s": "Multi Box Fans for Exhaust Applications",
+     "d": "Sagar Air Multi Box Fans are offered in various capacities and sizes. These fans are symmetric and durable, silent in operation and can cater to high statics when necessary.",
+     "f": [
+      [
+       "Air Discharges",
+       "Can cater up to 8000 CFM"
+      ],
+      [
+       "Static Pressures",
+       "High Statics up to 60 mm WC"
+      ],
+      [
+       "Construction",
+       "Single Skin / Double Skin · PUF or FibreGlass insulated 24mm thick paneling · High-Quality FRP inlet cone."
+      ],
+      [
+       "Impeller",
+       "Backward Curved, Fully dynamically balanced impeller · Direct Drive motor set"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "c": "Retrofit Solutions",
+   "i": "wrench",
+   "items": [
+    {
+     "n": "Repair or Rework the existing units ?",
+     "s": "Retrofit & custom jobs",
+     "d": "We can repair, rework and provide you the necessary AHU / Dehumidifier parts and components for your unit to run.",
+     "f": []
+    },
+    {
+     "n": "Want to increase the efficiency ?",
+     "s": "Retrofit & custom jobs",
+     "d": "Want to replace a choked coil or choked filter which is decreasing your unit's efficiency ? We can replace it within hours",
+     "f": []
+    },
+    {
+     "n": "Want to decrease the cost of the System?",
+     "s": "Retrofit & custom jobs",
+     "d": "What if your existing units be retrofitted and reworked with EC fans for increased Energy Efficiency ? We do it.",
+     "f": []
+    },
+    {
+     "n": "Want to have a Tailor made HVAC solution for your existing spaces ?",
+     "s": "Retrofit & custom jobs",
+     "d": "There are times when you have your AHU or Dehumidifier fail and you need a unit within the same design paramenters and space restrictions. We can do it and offer you a tailor amde solution.",
+     "f": []
+    }
+   ]
+  },
+  {
+   "c": "Air Distribution Catalog",
+   "i": "grille",
+   "items": [
+    {
+     "n": "Grilles",
+     "s": "SAGR-SD, SAGR-DD, SAFBG-R0/15/30, SAFBG-L",
+     "d": "Adjustable Grilles - Single Deflection; Adjustable Grilles - Double Deflection; Rectangular Fixed Bar Grilles",
+     "f": []
+    },
+    {
+     "n": "Diffusers",
+     "s": "SA-LND, SARCD-FL, SARCD-PL, SASWD-SQ",
+     "d": "Linear Diffusers; Flush Type Rectangular Ceiling Diffusers; Rectangular Ceiling Diffusers Plague type",
+     "f": []
+    },
+    {
+     "n": "Exhaust Valves",
+     "s": "SAEXV",
+     "d": "Round Exhaust Valves",
+     "f": []
+    },
+    {
+     "n": "Hygiene Accesories (Cleanroom HEPA Terminal)",
+     "s": "SACHT",
+     "d": "Clean Room Terminals",
+     "f": []
+    },
+    {
+     "n": "Duct Connectors",
+     "s": "SAFDC-RC, SAFDC-RO, SAFDC-RX",
+     "d": "Rectangular Flexible Duct Connectors; Round Flexible Duct Connectors; Square to Round Duct Connectors",
+     "f": []
+    },
+    {
+     "n": "Dampers",
+     "s": "SAVCD-3V, SAVCD-3V-TDF, SAVCD-RD, SAVCD-AL",
+     "d": "GI Volume Control Dampers with 3V blades; Volume Control Dampers with TDF Flange; Round Volume Control Dampers",
+     "f": []
+    },
+    {
+     "n": "Fire and Smoke Equipments",
+     "s": "SAFSD-DM / WM",
+     "d": "Fusible Link Fire Dampers",
+     "f": []
+    },
+    {
+     "n": "Louvres",
+     "s": "SAAL-AL, SAAL-GR, SAAL-SL, SAAL-ST",
+     "d": "Aluminium Extruded Thin Louvres; Rectangular Gravity Louvres; Stationary louvres - Steel",
+     "f": []
+    }
+   ]
+  }
+ ],
+ "ind": [
+  {
+   "n": "Pharmaceutical",
+   "a": [
+    "Formulations",
+    "Laboratories",
+    "Storage Facilities"
+   ],
+   "r": [
+    "Critical Moisture and Temperature Control Solution",
+    "The solution must be Maintenance and Operation Friendly",
+    "Stricter Standards accounting FDA / ICMR / ICH / MHRA must be considered",
+    "The Solution must be high performing with the lowest possible power consumption",
+    "In-built Control Systems for easy inspection.",
+    "Integration with BMS is necessary",
+    "24X7 After Sales Support. Immediate replacement and support is essential",
+    "One year warranty as standard for stressfree operation"
+   ],
+   "t": "The Pharmaceutical Industry being one-of-a-kind industry mostly comprising of stringent production processes. Such an industry needs precise humidity and temperature control. Moreover, The firms must maintain stricter drug regulations such as FDA / ICMR / MHRA for its production and storage facilties."
+  },
+  {
+   "n": "Food and Beverage",
+   "a": [
+    "Toffee / Jelly Production",
+    "Biscuit Packing",
+    "Candy Storage Rooms"
+   ],
+   "r": [
+    "Critical Moisture and Temperature Control Solution",
+    "The solution must be Maintenance and Operation Friendly",
+    "Competitive Pricing and higher Returns on investment",
+    "The Solution must be high performing with the lowest possible power consumption",
+    "In-built Control Systems for easy inspection.",
+    "Integration with BMS is necessary",
+    "24X7 After Sales Support. Immediate replacement and support is essential",
+    "One year warranty as standard for stressfree operation"
+   ],
+   "t": "Strict temperature and moisture controlled conditions are known to increase production capacities, production continuity and product quality. The candy / chocolate / toffee production lines mostly hard candies and jellies need dry air for curing and settling in the mould."
+  },
+  {
+   "n": "Industrial",
+   "a": [
+    "Electronics Manufacturing",
+    "Cement Manufacturing",
+    "Painting Process"
+   ]
+  },
+  {
+   "n": "Hospitality",
+   "a": [
+    "Hotel Rooms",
+    "Conventions Halls",
+    "Commercial Kitchens"
+   ]
+  },
+  {
+   "n": "Healthcare",
+   "a": [
+    "Patient Wards",
+    "Operation Theatres",
+    "Ventilation Spaces"
+   ]
+  },
+  {
+   "n": "Defence",
+   "a": [
+    "Missile / Military Storage",
+    "Auditorium Air-Conditioning",
+    "General Ventilation"
+   ]
+  },
+  {
+   "n": "Software",
+   "a": [
+    "Co-Working Spaces",
+    "Data-centers",
+    "Office Spaces"
+   ]
+  }
+ ],
+ "sol": [
+  "Desiccant Dehumidification and Energy Recovery Solutions",
+  "Air Handling Systems for Clean Rooms and Comfort Applications",
+  "Retrofit and Custom Jobs and Solutions",
+  "Dehumidifier and Air Handling Unit Rental Services",
+  "Commercial Kitchen Ventilation Solution with DEMAND CONTROLLED VENTILATION",
+  "All kinds of Industrial Fans & Blowers",
+  "Air Distribution Systems for Ventilation"
+ ],
+ "catBlurb": {
+  "Desiccant Dehumidifiers": "Moisture control down to 10% RH, compact to AHU-integrated.",
+  "Air Handling Systems": "Comfort, cleanroom, ventilation, air washers and FCUs.",
+  "Kitchen Ventilation": "Scrubbers, exhaust blowers and SS hoods with DCV.",
+  "Industrial Fans & Blowers": "Multi box, centrifugal and axial fans.",
+  "Retrofit Solutions": "Repair, rework and EC-fan upgrades for existing units.",
+  "Air Distribution Catalog": "Grilles, diffusers and dampers made in-house."
+ },
+ "catIcon": {
+  "drop": "i-drop",
+  "ahu": "i-ahu",
+  "hood": "i-hood",
+  "fan": "i-fan2",
+  "wrench": "i-wrench",
+  "grille": "i-grille"
+ },
+ "indStyle": [
+  [
+   "i-pill",
+   "linear-gradient(150deg,#3B8BEB,#1463D8)"
+  ],
+  [
+   "i-food",
+   "linear-gradient(150deg,#F4A23A,#E06A3B)"
+  ],
+  [
+   "i-fac",
+   "linear-gradient(150deg,#5B6B85,#0B1F45)"
+  ],
+  [
+   "i-hotel",
+   "linear-gradient(150deg,#E8A16B,#B86A3E)"
+  ],
+  [
+   "i-health",
+   "linear-gradient(150deg,#4FB0C6,#1D6F9F)"
+  ],
+  [
+   "i-def",
+   "linear-gradient(150deg,#4A6B54,#1F3B2C)"
+  ],
+  [
+   "i-dc",
+   "linear-gradient(150deg,#2B3F7A,#0B1F45)"
+  ]
+ ],
+ "solLinks": [
+  "products|Desiccant Dehumidifiers",
+  "products|Air Handling Systems",
+  "products|Retrofit Solutions",
+  "contact|",
+  "products|Kitchen Ventilation",
+  "products|Industrial Fans & Blowers",
+  "products|Air Distribution Catalog"
+ ],
+ "stats": [
+  [
+   "178",
+   "HVAC products"
+  ],
+  [
+   "1987",
+   "Founded in"
+  ],
+  [
+   "1700+",
+   "Happy clients"
+  ],
+  [
+   "12+",
+   "Service support engineers"
+  ],
+  [
+   "4 days*",
+   "AHU delivered to you"
+  ],
+  [
+   "30+",
+   "Years of expertise"
+  ]
+ ],
+ "clients": [
+  "Voltas Ltd.",
+  "Bluestar India",
+  "Procter & Gamble",
+  "Natco Pharma Limited",
+  "Stride Organics",
+  "Divis Laboratories",
+  "Modern Bread",
+  "Kayempee Foods Ltd",
+  "Dolphin Foods Ltd"
+ ],
+ "promises": [
+  "Swift After Sales Support",
+  "12+ Service Support Engineers",
+  "Lowest Prices",
+  "Shortest Delivery Times",
+  "Tailor made Solutions"
+ ],
+ "hotspots": [
+  [
+   "Top cover",
+   "Removable for service",
+   0.477,
+   0.194,
+   "u"
+  ],
+  [
+   "Inlet duct connection",
+   "Spigot with FRP inlet cone",
+   0.066,
+   0.625,
+   "d l"
+  ],
+  [
+   "Seal gasket",
+   "Airtight duct joint",
+   0.141,
+   0.7,
+   "u l"
+  ],
+  [
+   "Front panel",
+   "Galvanised steel, inlet cut-out",
+   0.205,
+   0.43,
+   "u l"
+  ],
+  [
+   "Insulated housing",
+   "20/24 mm PUF double skin",
+   0.305,
+   0.47,
+   "d"
+  ],
+  [
+   "Centrifugal impeller",
+   "Backward-curved, dynamically balanced",
+   0.505,
+   0.515,
+   "d"
+  ],
+  [
+   "Electric motor",
+   "Direct drive, EC option",
+   0.66,
+   0.44,
+   "u"
+  ],
+  [
+   "Motor support & base",
+   "Rigid frame, low vibration",
+   0.672,
+   0.63,
+   "d"
+  ],
+  [
+   "Access panel",
+   "Removable: choose outlet side on site",
+   0.82,
+   0.556,
+   "d r"
+  ],
+  [
+   "Outlet duct connection",
+   "Ducted discharge",
+   0.918,
+   0.42,
+   "u r"
+  ]
+ ]
+}
