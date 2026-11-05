@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Sagar Air – website (demo template by Manima)
 
 Marketing site for Sagar Air Pvt Ltd with a scroll-scrubbed product hero:
@@ -72,4 +72,3 @@ Deploy by uploading `dist/` to any static host (Netlify, Vercel, S3/CloudFront, 
 =======
 # sagar-air-website
 we designed the 3d website 
->>>>>>> 434356e5552ada558a269aaa89d48806d92216a1
