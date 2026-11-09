@@ -1,0 +1,1723 @@
+{
+ "cats": [
+  {
+   "c": "Desiccant Dehumidifiers",
+   "i": "drop",
+   "items": [
+    {
+     "n": "DewPac Series",
+     "s": "Compact Desiccant Dehumidifiers",
+     "d": "These Desiccant Dehumidification Systems are ideal for providing superior moisture control at low temperatures as well. These units can achieve RH % as low as 10% as per your requirement.",
+     "f": [
+      [
+       "Models",
+       "SDM-70 to SDM-500"
+      ],
+      [
+       "Dehumidification Capacity",
+       "4.6 kg/hr to 35.8 kg/hr"
+      ],
+      [
+       "Controller",
+       "4.5'' display or 7'' touchpad PLC+HMI"
+      ],
+      [
+       "Fans",
+       "Standard FC Centrifugal; EC and Plug optional"
+      ]
+     ],
+     "dl": [
+      {
+       "l": "DEWPAC Product Brochure",
+       "u": "https://www.sagarair.com/_files/ugd/994b45_264f4e3552444f978e9431dafd0050d1.pdf"
+      },
+      {
+       "l": "DEWPAC Product Advert",
+       "u": "https://www.sagarair.com/_files/ugd/994b45_f163201a74eb4af095ba5e2557d2565c.pdf"
+      },
+      {
+       "l": "DEWPAC IOM Manual",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      }
+     ]
+    },
+    {
+     "n": "DewFlat Series",
+     "s": "Ultra Compact Desiccant Dehumidifiers",
+     "d": "These Desiccant Dehumidification Systems are ideal for providing superior moisture control at low temperatures as well. These units can achieve RH % as low as 10% as per your requirement.",
+     "f": [
+      [
+       "Capacity",
+       "Ultra Compact Dehumidifiers upto 3500 CFM"
+      ],
+      [
+       "Controller",
+       "4 inch touch screen PLC+HMI"
+      ],
+      [
+       "Fans",
+       "High performance Centrifugal Fans"
+      ],
+      [
+       "Rotor",
+       "Imported, horizontal configuration"
+      ]
+     ],
+     "dl": [
+      {
+       "l": "DEWFLAT Product Brochure",
+       "u": "https://www.sagarair.com/_files/ugd/994b45_b5ce52f701c6453ca5b2b193fb0a7c2c.pdf"
+      },
+      {
+       "l": "DEWFLAT IOM",
+       "u": "https://www.sagarair.com/_files/ugd/994b45_b5ce52f701c6453ca5b2b193fb0a7c2c.pdf"
+      }
+     ]
+    },
+    {
+     "n": "DewPro Series",
+     "s": "AHU Integrated Desiccant Dehumidifiers",
+     "d": "The AHU Integrated Dehumidification System offers Superior temperature and humidity control for critical applications.",
+     "f": [
+      [
+       "Capacity",
+       "200 CFM to 1,00,000+ CFM dehumidification discharge"
+      ],
+      [
+       "Construction",
+       "Aluminium pentapost, PUF insulated Double Skin GI Panels"
+      ]
+     ],
+     "dl": [
+      {
+       "l": "DEWPRO Product Brochure",
+       "u": "https://www.sagarair.com/_files/ugd/994b45_1d26e3a34e514c73b69431925a86ef45.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c": "Air Handling Systems",
+   "i": "ahu",
+   "items": [
+    {
+     "n": "SAGM Series",
+     "s": "Comfort Air Handling Units",
+     "d": "We offer a wide range of Air Handling units in multiple orientations customized as per your requirement. The Air Handling Units manufactured are ultra-modern and offer high operation durability and low energy consumption.",
+     "f": [
+      [
+       "Capacities",
+       "From 1000 CFM to 100000+ CFM"
+      ],
+      [
+       "Orientation",
+       "Horizontal Floor mounted / Vertical / Ceiling Suspended Units."
+      ],
+      [
+       "Frame",
+       "Single Skin or Double Skin PUF Panels mounted on Aluminium Pentapost Construction - 25 mm or 40 mm Panels."
+      ],
+      [
+       "Fan Section",
+       "All Kinds of Fans and Blowers - FC/BC/SISW/DIDW/Plug/EC/Belt Driven/Direct Driven etc"
+      ]
+     ],
+     "dl": [
+      {
+       "l": "SAGM Series Brochure",
+       "u": "https://www.sagarair.com/_files/ugd/994b45_a9f188af34b54619991be631c1c0d7d0.pdf"
+      },
+      {
+       "l": "SAGM Technical Specs",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      },
+      {
+       "l": "SAGM IOM Manual",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      }
+     ]
+    },
+    {
+     "n": "SACR Series",
+     "s": "Clean Room (Hygenic) Air Handling Units",
+     "d": "The Clean Room Air Handling Units meet strict Clean Room Standards for Hygenic Planning, Manufacturing and maintenance.",
+     "f": [
+      [
+       "Capacities",
+       "From 1000 CFM to 100000+ CFM"
+      ],
+      [
+       "Frame",
+       "Double Skin PUF Panels mounted on Aluminium Pentapost Construction - 25 mm or 40 mm Panels with Sound…"
+      ],
+      [
+       "Fan Section",
+       "Plug Fans/EC fans are preferred to others due to easy cleaning and maintenance."
+      ],
+      [
+       "Filter Section",
+       "All kinds of Filters Pre-Filter/Fine Filter/Bag Filter/HEPA Filter/Flange Type Filters/Activated Charcoal…"
+      ]
+     ],
+     "dl": [
+      {
+       "l": "SACR Series Brochure",
+       "u": "https://www.sagarair.com/_files/ugd/994b45_a9f188af34b54619991be631c1c0d7d0.pdf"
+      },
+      {
+       "l": "SACR Technical Specs",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      },
+      {
+       "l": "SACR IOM Manual",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      }
+     ]
+    },
+    {
+     "n": "SACFT Series",
+     "s": "Air Ventilation Systems",
+     "d": "Sagar Air SACFT series are capable of exhaust and supply air units that can handle very high CFMs. The units consist of a blower with a filtration system encased in a PUF paneled aluminum box section.",
+     "f": [
+      [
+       "Air Discharges",
+       "Can Handle very high CFMs up to and above 1,00,000 CFM."
+      ],
+      [
+       "Static Pressures",
+       "The Units can be designed to overcome statics upto 1500 Pa"
+      ],
+      [
+       "Filtration",
+       "From 20 microns to 0.03 microns"
+      ],
+      [
+       "Construction",
+       "Rigid Aluminium Extruded Profile Construction · Double Skin PUF Insulated 24 mm Panel · GI Casing"
+      ]
+     ],
+     "dl": [
+      {
+       "l": "SACFT Product Brochure",
+       "u": "https://www.sagarair.com/_files/ugd/994b45_772a6555b85c4d6cb2f4a9482364273c.pdf"
+      },
+      {
+       "l": "SACFT Product Specsheet",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      },
+      {
+       "l": "SACFT IOM Manual",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      }
+     ]
+    },
+    {
+     "n": "SAPCU Series",
+     "s": "Evaporative Pre-Cooling Systems",
+     "d": "The principle underlying evaporative cooling is the fact that water must have heat applied to it to change from a liquid to a vapor. When evaporation occurs, this heat is taken from the water that remains in the liquid state, resulting in a cooler liquid. This phenomenon could largely descend the temperature of incoming supply sir of the Chiller / Condensing unit thereby reducing the overall cooling load on the Chiller Unit.",
+     "f": [
+      [
+       "Air Discharges",
+       "Can be designed to handle any CFM of the Condenser / Chiller"
+      ],
+      [
+       "Construction",
+       "Rigid Galvanised Iron Casing / Stainless Steel Construction"
+      ],
+      [
+       "Pump Section",
+       "High quality Branded Centrifugal Pump"
+      ],
+      [
+       "Pad Section",
+       "High Quality branded Cellulose pads of CelDek, Eco-cool, huTek make. · Optimum face area and thickness of…"
+      ]
+     ],
+     "dl": [
+      {
+       "l": "SAPCU Product Brochure",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      },
+      {
+       "l": "SAPCU Product Specsheet",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      },
+      {
+       "l": "SAPCU IOM Manual",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      }
+     ]
+    },
+    {
+     "n": "SAACU-S Series",
+     "s": "Air Washer Units - Single Stage",
+     "d": "Sagar Air offers a wide range of single stage Air Washer Units which are highly reliable, low maintenance, more energy saving at a much lower initial cost.",
+     "f": [
+      [
+       "Capacities",
+       "From 1000 CFM to 100000+ CFM"
+      ],
+      [
+       "Orientation",
+       "Horizontal Floor mounted / Vertical /"
+      ],
+      [
+       "Frame",
+       "Single Skin or Double Skin PUF Panels mounted on Aluminium Pentapost Construction - 25 mm or 40 mm Panels."
+      ],
+      [
+       "Fan Section",
+       "All Kinds of Fans and Blowers - FC/BC/SISW/DIDW/Plug/EC/Belt Driven/Direct Driven etc"
+      ]
+     ],
+     "dl": [
+      {
+       "l": "SAACU-S Series Brochure",
+       "u": "https://www.sagarair.com/_files/ugd/994b45_b5d0fdd00fd44c2c9f835e3797bfe605.pdf"
+      },
+      {
+       "l": "SAACU-S Technical Specs",
+       "u": "https://www.sagarair.com/_files/ugd/994b45_e4bfb7b9406842cf80a823cace0a9dd6.pdf"
+      },
+      {
+       "l": "SAACU-S IOM Manual",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      }
+     ]
+    },
+    {
+     "n": "SAACU-D Series",
+     "s": "Air Washer Units - Two Stage",
+     "d": "Two-Stage Air Washer Units are employed in special applications where a further dip in WBT is essential during high ambient heat loads.",
+     "f": [
+      [
+       "Capacities",
+       "From 1000 CFM to 200000+ CFM"
+      ],
+      [
+       "Orientation",
+       "Horizontal Floor mounted / Vertical /"
+      ],
+      [
+       "Frame",
+       "Double Skin PUF Panels mounted on Aluminium Pentapost Construction - 25 mm or 40 mm Panels."
+      ],
+      [
+       "Fan Section",
+       "All Kinds of Fans and Blowers - FC/BC/SISW/DIDW/Plug/EC/Belt Driven/Direct Driven etc"
+      ]
+     ],
+     "dl": [
+      {
+       "l": "SAACU-D Series Brochure",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      },
+      {
+       "l": "SAACU-D Technical Specs",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      },
+      {
+       "l": "SAACU-D IOM Manual",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      }
+     ]
+    },
+    {
+     "n": "SAFCU Series",
+     "s": "Fan Coil Units ( FCUs )",
+     "d": "Sagar Air Fan Coil Units have been widely used in Malls, Hospitals, Offices, and Hotels. These units are available in various airflow capacities providing effective cooling.",
+     "f": [
+      [
+       "Capacities",
+       "From 1 TR to 3 TR"
+      ],
+      [
+       "Construction",
+       "Single Skin (standard) / Double Skin"
+      ],
+      [
+       "Casing",
+       "GI metal body powder coated 0.8 mm thk with 6mm closed cell XLPE foam"
+      ],
+      [
+       "Cooling Coil",
+       "Quality copper tube aluminum fin cooling coil- 0.14mm fin thk @ 12-13 fpi. Available in 3R/4R configurations"
+      ]
+     ],
+     "dl": [
+      {
+       "l": "SAFCU Series Brochure",
+       "u": "https://www.sagarair.com/_files/ugd/994b45_085585c8a73d4e1aab48cf871c168fac.pdf"
+      },
+      {
+       "l": "SAFCU Data Sheet",
+       "u": "https://www.sagarair.com/_files/ugd/994b45_9fdf19ef3d83438abbe80313e278777c.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c": "Kitchen Ventilation",
+   "i": "hood",
+   "items": [
+    {
+     "n": "SASU-M / MD / D Series",
+     "s": "Dry and Wet Scrubbing Units",
+     "d": "Kitchen Scrubber is an air washer with a refinement device which is used in cleaning fumes. In this device, the pollutant gas stream is bought in contact with the scrubbing liquid, by spraying it with the liquid, forcing it through a pool of liquid so as to remove the pollutants.",
+     "f": [
+      [
+       "Air Discharges",
+       "Can Handle very high CFMs up to 65,000 CFM."
+      ],
+      [
+       "Construction",
+       "Rigid Aluminium Extruded Profile Construction · Double Skin PUF Insulated 24 mm Panel · GI Casing"
+      ],
+      [
+       "Fan Section",
+       "AMCA Certified BC/FC/Aerofoil/Plug Fans can be offered · TEFC Electric Motor IP55 Type with Class F…"
+      ],
+      [
+       "Pump Section",
+       "Branded Centrifugal pump of ABB / CG / KB"
+      ]
+     ],
+     "dl": [
+      {
+       "l": "SASU Product Brochure",
+       "u": "https://www.sagarair.com/_files/ugd/994b45_ac79fbbf9079442396da3af63af35c2e.pdf"
+      },
+      {
+       "l": "SASU IOM Manual",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      }
+     ]
+    },
+    {
+     "n": "SABSZ Series",
+     "s": "SISW BC Kitchen Exhaust Centrifugal Fans",
+     "d": "These Fan series consist of heavy-duty backward curved impeller with non-overloading characteristics. These fans are stringently designed to operate at various load characteristics. The blowers are either belt-driven ( for high air flows ) or direct-driven ( for low air flows and low statics ). This whole turbo machinery is CNC fabricated and impellar is dynamically balanced to ensure top notch performance.",
+     "f": [
+      [
+       "Air Discharges",
+       "Belt-Driven can cater CFM upto 2,50,000 CFM · Direct Dirven can cater upto 16,000 CFM"
+      ],
+      [
+       "Static Pressures",
+       "High Statics upto 5000 Pa"
+      ],
+      [
+       "Construction",
+       "Galvanised Iron / Mild Steel with MS Angle Frame · FRP Venturi inlet Cone for increased blower efficiency"
+      ],
+      [
+       "Impeller",
+       "Backward Curved, fully dynamically balanced impeller"
+      ]
+     ],
+     "dl": [
+      {
+       "l": "SABSZ Product Brochure",
+       "u": "https://www.sagarair.com/_files/ugd/994b45_72a3bb7567274712a23afc33b7c5005f.pdf"
+      },
+      {
+       "l": "SABSZ IOM Manual",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      }
+     ]
+    },
+    {
+     "n": "SAKTH Series",
+     "s": "SS Kitchen Hoods with Baffled Grease Filters",
+     "d": "Our Kitchen Exhaust Systems are technically designed for commercial, industrial kitchens where utmost smoke extraction is necessary. The smoke is exhausted by this system leaving the kitchen absolutely neat and tidy. Thus, provides a suitable tidy environment for our chefs to work. Parts of Kitchen Exhaust System are – Suction Hood, Suction Filter, Kitchen Fume Exhaust Duct, Suction Canvas, and a centrifugal Blower.",
+     "f": [
+      [
+       "Mount",
+       "Overhung · Wall Mount"
+      ],
+      [
+       "Construction",
+       "Fully Stainless Steel Construction"
+      ],
+      [
+       "Capturing",
+       "Superior Grease Filters with capturing baffles for oil droplets · Easy Oil removal · low-Pressure drop"
+      ],
+      [
+       "Exhaust Ducting",
+       "TDF · TDC · C & S"
+      ]
+     ],
+     "dl": [
+      {
+       "l": "SAKTH Product Brochure",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      },
+      {
+       "l": "SAKTH IOM Manual",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c": "Industrial Fans & Blowers",
+   "i": "fan",
+   "items": [
+    {
+     "n": "SABMZ / SAMBZ Series",
+     "s": "Multi Box Fans for Exhaust Applications",
+     "d": "Sagar Air Multi Box Fans are offered in various capacities and sizes. These fans are symmetric and durable, silent in operation and can cater to high statics when necessary.",
+     "f": [
+      [
+       "Air Discharges",
+       "Can cater up to 8000 CFM"
+      ],
+      [
+       "Static Pressures",
+       "High Statics up to 60 mm WC"
+      ],
+      [
+       "Construction",
+       "Single Skin / Double Skin · PUF or FibreGlass insulated 24mm thick paneling · High-Quality FRP inlet cone."
+      ],
+      [
+       "Impeller",
+       "Backward Curved, Fully dynamically balanced impeller · Direct Drive motor set"
+      ]
+     ],
+     "dl": [
+      {
+       "l": "SABMZ Product Brochure",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      },
+      {
+       "l": "SAMBZ Tech Specs",
+       "u": "https://www.sagarair.com/download-center",
+       "dc": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "c": "Retrofit Solutions",
+   "i": "wrench",
+   "items": [
+    {
+     "n": "Repair or Rework the existing units ?",
+     "s": "Retrofit & custom jobs",
+     "d": "We can repair, rework and provide you the necessary AHU / Dehumidifier parts and components for your unit to run.",
+     "f": [],
+     "dl": []
+    },
+    {
+     "n": "Want to increase the efficiency ?",
+     "s": "Retrofit & custom jobs",
+     "d": "Want to replace a choked coil or choked filter which is decreasing your unit's efficiency ? We can replace it within hours",
+     "f": [],
+     "dl": []
+    },
+    {
+     "n": "Want to decrease the cost of the System?",
+     "s": "Retrofit & custom jobs",
+     "d": "What if your existing units be retrofitted and reworked with EC fans for increased Energy Efficiency ? We do it.",
+     "f": [],
+     "dl": []
+    },
+    {
+     "n": "Want to have a Tailor made HVAC solution for your existing spaces ?",
+     "s": "Retrofit & custom jobs",
+     "d": "There are times when you have your AHU or Dehumidifier fail and you need a unit within the same design paramenters and space restrictions. We can do it and offer you a tailor amde solution.",
+     "f": [],
+     "dl": []
+    }
+   ]
+  },
+  {
+   "c": "Air Distribution Catalog",
+   "i": "grille",
+   "items": [
+    {
+     "n": "Grilles",
+     "s": "SAGR-SD, SAGR-DD, SAFBG-R0/15/30, SAFBG-L",
+     "d": "Adjustable Grilles - Single Deflection; Adjustable Grilles - Double Deflection; Rectangular Fixed Bar Grilles",
+     "f": [],
+     "dl": [
+      {
+       "l": "Grilles data sheet (SAFBG-R0/15/30)",
+       "u": "https://www.sagarair.com/_files/ugd/994b45_f553841b72034cb3b6ad6dc6689991d5.pdf"
+      }
+     ]
+    },
+    {
+     "n": "Diffusers",
+     "s": "SA-LND, SARCD-FL, SARCD-PL, SASWD-SQ",
+     "d": "Linear Diffusers; Flush Type Rectangular Ceiling Diffusers; Rectangular Ceiling Diffusers Plague type",
+     "f": [],
+     "dl": []
+    },
+    {
+     "n": "Exhaust Valves",
+     "s": "SAEXV",
+     "d": "Round Exhaust Valves",
+     "f": [],
+     "dl": [
+      {
+       "l": "Exhaust Valves data sheet (SAEXV)",
+       "u": "https://www.sagarair.com/_files/ugd/994b45_f4ed441f60134c989efdfe160c0015e8.pdf"
+      }
+     ]
+    },
+    {
+     "n": "Hygiene Accesories (Cleanroom HEPA Terminal)",
+     "s": "SACHT",
+     "d": "Clean Room Terminals",
+     "f": [],
+     "dl": []
+    },
+    {
+     "n": "Duct Connectors",
+     "s": "SAFDC-RC, SAFDC-RO, SAFDC-RX",
+     "d": "Rectangular Flexible Duct Connectors; Round Flexible Duct Connectors; Square to Round Duct Connectors",
+     "f": [],
+     "dl": []
+    },
+    {
+     "n": "Dampers",
+     "s": "SAVCD-3V, SAVCD-3V-TDF, SAVCD-RD, SAVCD-AL",
+     "d": "GI Volume Control Dampers with 3V blades; Volume Control Dampers with TDF Flange; Round Volume Control Dampers",
+     "f": [],
+     "dl": [
+      {
+       "l": "Dampers data sheet (SAVCD-3V)",
+       "u": "https://www.sagarair.com/_files/ugd/994b45_006d9540c85b4db0bf26b151bd3be54d.pdf"
+      }
+     ]
+    },
+    {
+     "n": "Fire and Smoke Equipments",
+     "s": "SAFSD-DM / WM",
+     "d": "Fusible Link Fire Dampers",
+     "f": [],
+     "dl": []
+    },
+    {
+     "n": "Louvres",
+     "s": "SAAL-AL, SAAL-GR, SAAL-SL, SAAL-ST",
+     "d": "Aluminium Extruded Thin Louvres; Rectangular Gravity Louvres; Stationary louvres - Steel",
+     "f": [],
+     "dl": []
+    }
+   ]
+  }
+ ],
+ "ind": [
+  {
+   "n": "Pharmaceutical",
+   "a": [
+    "Formulations",
+    "Laboratories",
+    "Storage Facilities"
+   ],
+   "r": [
+    "Critical Moisture and Temperature Control Solution",
+    "The solution must be Maintenance and Operation Friendly",
+    "Stricter Standards accounting FDA / ICMR / ICH / MHRA must be considered",
+    "The Solution must be high performing with the lowest possible power consumption",
+    "In-built Control Systems for easy inspection.",
+    "Integration with BMS is necessary",
+    "24X7 After Sales Support. Immediate replacement and support is essential",
+    "One year warranty as standard for stressfree operation"
+   ],
+   "t": "The Pharmaceutical Industry being one-of-a-kind industry mostly comprising of stringent production processes. Such an industry needs precise humidity and temperature control. Moreover, The firms must maintain stricter drug regulations such as FDA / ICMR / MHRA for its production and storage facilties."
+  },
+  {
+   "n": "Food and Beverage",
+   "a": [
+    "Toffee / Jelly Production",
+    "Biscuit Packing",
+    "Candy Storage Rooms"
+   ],
+   "r": [
+    "Critical Moisture and Temperature Control Solution",
+    "The solution must be Maintenance and Operation Friendly",
+    "Competitive Pricing and higher Returns on investment",
+    "The Solution must be high performing with the lowest possible power consumption",
+    "In-built Control Systems for easy inspection.",
+    "Integration with BMS is necessary",
+    "24X7 After Sales Support. Immediate replacement and support is essential",
+    "One year warranty as standard for stressfree operation"
+   ],
+   "t": "Strict temperature and moisture controlled conditions are known to increase production capacities, production continuity and product quality. The candy / chocolate / toffee production lines mostly hard candies and jellies need dry air for curing and settling in the mould."
+  },
+  {
+   "n": "Industrial",
+   "a": [
+    "Electronics Manufacturing",
+    "Cement Manufacturing",
+    "Painting Process"
+   ]
+  },
+  {
+   "n": "Hospitality",
+   "a": [
+    "Hotel Rooms",
+    "Conventions Halls",
+    "Commercial Kitchens"
+   ]
+  },
+  {
+   "n": "Healthcare",
+   "a": [
+    "Patient Wards",
+    "Operation Theatres",
+    "Ventilation Spaces"
+   ]
+  },
+  {
+   "n": "Defence",
+   "a": [
+    "Missile / Military Storage",
+    "Auditorium Air-Conditioning",
+    "General Ventilation"
+   ]
+  },
+  {
+   "n": "Software",
+   "a": [
+    "Co-Working Spaces",
+    "Data-centers",
+    "Office Spaces"
+   ]
+  }
+ ],
+ "sol": [
+  "Desiccant Dehumidification and Energy Recovery Solutions",
+  "Air Handling Systems for Clean Rooms and Comfort Applications",
+  "Retrofit and Custom Jobs and Solutions",
+  "Dehumidifier and Air Handling Unit Rental Services",
+  "Commercial Kitchen Ventilation Solution with DEMAND CONTROLLED VENTILATION",
+  "All kinds of Industrial Fans & Blowers",
+  "Air Distribution Systems for Ventilation"
+ ],
+ "catBlurb": {
+  "Desiccant Dehumidifiers": "Moisture control down to 10% RH, compact to AHU-integrated.",
+  "Air Handling Systems": "Comfort, cleanroom, ventilation, air washers and FCUs.",
+  "Kitchen Ventilation": "Scrubbers, exhaust blowers and SS hoods with DCV.",
+  "Industrial Fans & Blowers": "Multi box, centrifugal and axial fans.",
+  "Retrofit Solutions": "Repair, rework and EC-fan upgrades for existing units.",
+  "Air Distribution Catalog": "Grilles, diffusers and dampers made in-house."
+ },
+ "catIcon": {
+  "drop": "i-drop",
+  "ahu": "i-ahu",
+  "hood": "i-hood",
+  "fan": "i-fan2",
+  "wrench": "i-wrench",
+  "grille": "i-grille"
+ },
+ "indStyle": [
+  [
+   "i-pill",
+   "linear-gradient(150deg,#3B8BEB,#1463D8)"
+  ],
+  [
+   "i-food",
+   "linear-gradient(150deg,#F4A23A,#E06A3B)"
+  ],
+  [
+   "i-fac",
+   "linear-gradient(150deg,#5B6B85,#0B1F45)"
+  ],
+  [
+   "i-hotel",
+   "linear-gradient(150deg,#E8A16B,#B86A3E)"
+  ],
+  [
+   "i-health",
+   "linear-gradient(150deg,#4FB0C6,#1D6F9F)"
+  ],
+  [
+   "i-def",
+   "linear-gradient(150deg,#4A6B54,#1F3B2C)"
+  ],
+  [
+   "i-dc",
+   "linear-gradient(150deg,#2B3F7A,#0B1F45)"
+  ]
+ ],
+ "solLinks": [
+  "products|Desiccant Dehumidifiers",
+  "products|Air Handling Systems",
+  "products|Retrofit Solutions",
+  "contact|",
+  "products|Kitchen Ventilation",
+  "products|Industrial Fans & Blowers",
+  "products|Air Distribution Catalog"
+ ],
+ "stats": [
+  [
+   "178",
+   "HVAC products"
+  ],
+  [
+   "1987",
+   "Founded in"
+  ],
+  [
+   "1700+",
+   "Happy clients"
+  ],
+  [
+   "12+",
+   "Service support engineers"
+  ],
+  [
+   "4 days*",
+   "AHU delivered to you"
+  ],
+  [
+   "30+",
+   "Years of expertise"
+  ]
+ ],
+ "clients": [
+  {
+   "n": "Voltas Ltd.",
+   "logo": null,
+   "file": "img/clients/voltas-ltd.png",
+   "source": "https://static.wixstatic.com/media/994b45_02e6d63081cc49a0bc6eeb6a7e8ec3ab~mv2.png"
+  },
+  {
+   "n": "Bluestar India",
+   "logo": null,
+   "file": "img/clients/bluestar-india.png",
+   "source": "https://static.wixstatic.com/media/994b45_439edd796d104453b45d9ca1ce89290a~mv2.png"
+  },
+  {
+   "n": "Procter & Gamble",
+   "logo": null,
+   "file": "img/clients/procter-and-gamble.png",
+   "source": "https://static.wixstatic.com/media/994b45_8e2b422308e24ee7ae3b90a3a7b79f01~mv2.jpg"
+  },
+  {
+   "n": "Natco Pharma Limited",
+   "logo": null,
+   "file": "img/clients/natco-pharma-limited.png"
+  },
+  {
+   "n": "Stride Organics",
+   "logo": null,
+   "file": "img/clients/stride-organics.png"
+  },
+  {
+   "n": "Divis Laboratories",
+   "logo": null,
+   "file": "img/clients/divis-laboratories.png"
+  },
+  {
+   "n": "Modern Bread",
+   "logo": null,
+   "file": "img/clients/modern-bread.png"
+  },
+  {
+   "n": "Kayempee Foods Ltd",
+   "logo": null,
+   "file": "img/clients/kayempee-foods-ltd.png"
+  },
+  {
+   "n": "Dolphin Foods Ltd",
+   "logo": null,
+   "file": "img/clients/dolphin-foods-ltd.png"
+  }
+ ],
+ "promises": [
+  "Swift After Sales Support",
+  "12+ Service Support Engineers",
+  "Lowest Prices",
+  "Shortest Delivery Times",
+  "Tailor made Solutions"
+ ],
+ "hotspots": [
+  [
+   "Top cover",
+   "Removable for service",
+   0.477,
+   0.194,
+   "u"
+  ],
+  [
+   "Inlet duct connection",
+   "Spigot with FRP inlet cone",
+   0.066,
+   0.625,
+   "d l"
+  ],
+  [
+   "Seal gasket",
+   "Airtight duct joint",
+   0.141,
+   0.7,
+   "u l"
+  ],
+  [
+   "Front panel",
+   "Galvanised steel, inlet cut-out",
+   0.205,
+   0.43,
+   "u l"
+  ],
+  [
+   "Insulated housing",
+   "20/24 mm PUF double skin",
+   0.305,
+   0.47,
+   "d"
+  ],
+  [
+   "Centrifugal impeller",
+   "Backward-curved, dynamically balanced",
+   0.505,
+   0.515,
+   "d"
+  ],
+  [
+   "Electric motor",
+   "Direct drive, EC option",
+   0.66,
+   0.44,
+   "u"
+  ],
+  [
+   "Motor support & base",
+   "Rigid frame, low vibration",
+   0.672,
+   0.63,
+   "d"
+  ],
+  [
+   "Access panel",
+   "Removable: choose outlet side on site",
+   0.82,
+   0.556,
+   "d r"
+  ],
+  [
+   "Outlet duct connection",
+   "Ducted discharge",
+   0.918,
+   0.42,
+   "u r"
+  ]
+ ],
+ "downloads": [
+  {
+   "l": "DEWPAC Product Brochure",
+   "u": "https://www.sagarair.com/_files/ugd/994b45_264f4e3552444f978e9431dafd0050d1.pdf",
+   "s": "DewPac Series",
+   "c": "Desiccant Dehumidifiers"
+  },
+  {
+   "l": "DEWPAC Product Advert",
+   "u": "https://www.sagarair.com/_files/ugd/994b45_f163201a74eb4af095ba5e2557d2565c.pdf",
+   "s": "DewPac Series",
+   "c": "Desiccant Dehumidifiers"
+  },
+  {
+   "l": "DEWPAC IOM Manual",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "DewPac Series",
+   "c": "Desiccant Dehumidifiers",
+   "dc": true
+  },
+  {
+   "l": "DEWFLAT Product Brochure",
+   "u": "https://www.sagarair.com/_files/ugd/994b45_b5ce52f701c6453ca5b2b193fb0a7c2c.pdf",
+   "s": "DewFlat Series",
+   "c": "Desiccant Dehumidifiers"
+  },
+  {
+   "l": "DEWFLAT IOM",
+   "u": "https://www.sagarair.com/_files/ugd/994b45_b5ce52f701c6453ca5b2b193fb0a7c2c.pdf",
+   "s": "DewFlat Series",
+   "c": "Desiccant Dehumidifiers"
+  },
+  {
+   "l": "DEWPRO Product Brochure",
+   "u": "https://www.sagarair.com/_files/ugd/994b45_1d26e3a34e514c73b69431925a86ef45.pdf",
+   "s": "DewPro Series",
+   "c": "Desiccant Dehumidifiers"
+  },
+  {
+   "l": "SAGM Series Brochure",
+   "u": "https://www.sagarair.com/_files/ugd/994b45_a9f188af34b54619991be631c1c0d7d0.pdf",
+   "s": "SAGM Series",
+   "c": "Air Handling Systems"
+  },
+  {
+   "l": "SAGM Technical Specs",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SAGM Series",
+   "c": "Air Handling Systems",
+   "dc": true
+  },
+  {
+   "l": "SAGM IOM Manual",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SAGM Series",
+   "c": "Air Handling Systems",
+   "dc": true
+  },
+  {
+   "l": "SACR Series Brochure",
+   "u": "https://www.sagarair.com/_files/ugd/994b45_a9f188af34b54619991be631c1c0d7d0.pdf",
+   "s": "SACR Series",
+   "c": "Air Handling Systems"
+  },
+  {
+   "l": "SACR Technical Specs",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SACR Series",
+   "c": "Air Handling Systems",
+   "dc": true
+  },
+  {
+   "l": "SACR IOM Manual",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SACR Series",
+   "c": "Air Handling Systems",
+   "dc": true
+  },
+  {
+   "l": "SACFT Product Brochure",
+   "u": "https://www.sagarair.com/_files/ugd/994b45_772a6555b85c4d6cb2f4a9482364273c.pdf",
+   "s": "SACFT Series",
+   "c": "Air Handling Systems"
+  },
+  {
+   "l": "SACFT Product Specsheet",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SACFT Series",
+   "c": "Air Handling Systems",
+   "dc": true
+  },
+  {
+   "l": "SACFT IOM Manual",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SACFT Series",
+   "c": "Air Handling Systems",
+   "dc": true
+  },
+  {
+   "l": "SAPCU Product Brochure",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SAPCU Series",
+   "c": "Air Handling Systems",
+   "dc": true
+  },
+  {
+   "l": "SAPCU Product Specsheet",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SAPCU Series",
+   "c": "Air Handling Systems",
+   "dc": true
+  },
+  {
+   "l": "SAPCU IOM Manual",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SAPCU Series",
+   "c": "Air Handling Systems",
+   "dc": true
+  },
+  {
+   "l": "SAACU-S Series Brochure",
+   "u": "https://www.sagarair.com/_files/ugd/994b45_b5d0fdd00fd44c2c9f835e3797bfe605.pdf",
+   "s": "SAACU-S Series",
+   "c": "Air Handling Systems"
+  },
+  {
+   "l": "SAACU-S Technical Specs",
+   "u": "https://www.sagarair.com/_files/ugd/994b45_e4bfb7b9406842cf80a823cace0a9dd6.pdf",
+   "s": "SAACU-S Series",
+   "c": "Air Handling Systems"
+  },
+  {
+   "l": "SAACU-S IOM Manual",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SAACU-S Series",
+   "c": "Air Handling Systems",
+   "dc": true
+  },
+  {
+   "l": "SAACU-D Series Brochure",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SAACU-D Series",
+   "c": "Air Handling Systems",
+   "dc": true
+  },
+  {
+   "l": "SAACU-D Technical Specs",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SAACU-D Series",
+   "c": "Air Handling Systems",
+   "dc": true
+  },
+  {
+   "l": "SAACU-D IOM Manual",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SAACU-D Series",
+   "c": "Air Handling Systems",
+   "dc": true
+  },
+  {
+   "l": "SAFCU Series Brochure",
+   "u": "https://www.sagarair.com/_files/ugd/994b45_085585c8a73d4e1aab48cf871c168fac.pdf",
+   "s": "SAFCU Series",
+   "c": "Air Handling Systems"
+  },
+  {
+   "l": "SAFCU Data Sheet",
+   "u": "https://www.sagarair.com/_files/ugd/994b45_9fdf19ef3d83438abbe80313e278777c.pdf",
+   "s": "SAFCU Series",
+   "c": "Air Handling Systems"
+  },
+  {
+   "l": "SASU Product Brochure",
+   "u": "https://www.sagarair.com/_files/ugd/994b45_ac79fbbf9079442396da3af63af35c2e.pdf",
+   "s": "SASU-M / MD / D Series",
+   "c": "Kitchen Ventilation"
+  },
+  {
+   "l": "SASU IOM Manual",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SASU-M / MD / D Series",
+   "c": "Kitchen Ventilation",
+   "dc": true
+  },
+  {
+   "l": "SABSZ Product Brochure",
+   "u": "https://www.sagarair.com/_files/ugd/994b45_72a3bb7567274712a23afc33b7c5005f.pdf",
+   "s": "SABSZ Series",
+   "c": "Kitchen Ventilation"
+  },
+  {
+   "l": "SABSZ IOM Manual",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SABSZ Series",
+   "c": "Kitchen Ventilation",
+   "dc": true
+  },
+  {
+   "l": "SAKTH Product Brochure",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SAKTH Series",
+   "c": "Kitchen Ventilation",
+   "dc": true
+  },
+  {
+   "l": "SAKTH IOM Manual",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SAKTH Series",
+   "c": "Kitchen Ventilation",
+   "dc": true
+  },
+  {
+   "l": "SABMZ Product Brochure",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SABMZ / SAMBZ Series",
+   "c": "Industrial Fans & Blowers",
+   "dc": true
+  },
+  {
+   "l": "SAMBZ Tech Specs",
+   "u": "https://www.sagarair.com/download-center",
+   "s": "SABMZ / SAMBZ Series",
+   "c": "Industrial Fans & Blowers",
+   "dc": true
+  },
+  {
+   "l": "Vendor Sourcing Policy",
+   "u": "https://www.sagarair.com/_files/ugd/994b45_3e123b3c2ea14409a5bdacc682130af5.pdf",
+   "s": null,
+   "c": null
+  },
+  {
+   "l": "Grilles data sheet (SAFBG-R0/15/30)",
+   "u": "https://www.sagarair.com/_files/ugd/994b45_f553841b72034cb3b6ad6dc6689991d5.pdf",
+   "s": "Grilles",
+   "c": "Air Distribution Catalog"
+  },
+  {
+   "l": "Exhaust Valves data sheet (SAEXV)",
+   "u": "https://www.sagarair.com/_files/ugd/994b45_f4ed441f60134c989efdfe160c0015e8.pdf",
+   "s": "Exhaust Valves",
+   "c": "Air Distribution Catalog"
+  },
+  {
+   "l": "Dampers data sheet (SAVCD-3V)",
+   "u": "https://www.sagarair.com/_files/ugd/994b45_006d9540c85b4db0bf26b151bd3be54d.pdf",
+   "s": "Dampers",
+   "c": "Air Distribution Catalog"
+  }
+ ],
+ "airDist": [
+  {
+   "c": "Grilles",
+   "p": [
+    {
+     "code": "SAGR-SD",
+     "n": "Adjustable Grilles - Single Deflection",
+     "f": [
+      "High-Quality Extruded Aluminium",
+      "27 mm standard flange Available in Flange or Continuous type",
+      "Blades are perfectly streamlined for maximum air diffusion"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SAGR-DD",
+     "n": "Adjustable Grilles - Double Deflection",
+     "f": [
+      "High Quality Extruded Aluminium",
+      "27 mm standard flange Available in Flange or Continuous type",
+      "Blades are perfectly streamlined for maximum air diffusion"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SAFBG-R0/15/30",
+     "n": "Rectangular Fixed Bar Grilles",
+     "f": [
+      "Superior Ambience",
+      "Durable Construction",
+      "Varied Air Flow pattern options",
+      "Finished with Epoxy Powder Coating"
+     ],
+     "pdf": "https://www.sagarair.com/_files/ugd/994b45_f553841b72034cb3b6ad6dc6689991d5.pdf"
+    },
+    {
+     "code": "SAFBG-L",
+     "n": "Linear Fixed bar Grilles",
+     "f": [
+      "Robust",
+      "Extruded Al Construction",
+      "Superior Ambience",
+      "Available in various sizes Finished with Epoxy Powder Coating"
+     ],
+     "pdf": "https://www.sagarair.com/_files/ugd/994b45_f553841b72034cb3b6ad6dc6689991d5.pdf"
+    },
+    {
+     "code": "SAFBG-FG-0/15/30",
+     "n": "Floor Grilles",
+     "f": [
+      "Heavy Duty Extruded Aluminium Construction",
+      "Solidly built deflection blades.",
+      "Epoxy Powder Coating"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SAFWG",
+     "n": "Four Way Diffuse Grilles",
+     "f": [
+      "Robust Aluminium Construction",
+      "Improved design",
+      "Superior finish",
+      "Available in various sizes"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SAFCG-0/15/30",
+     "n": "Fan Coil Unit Grilles",
+     "f": [
+      "Superior Al Construction",
+      "Efficient Air Distribution",
+      "Superior Finish"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SADG-NV",
+     "n": "Non Vision Door Grilles",
+     "f": [
+      "Rigid, High Quality Extruded Aluminium profile construction",
+      "Frame is fabricated to suit door thickness of 28 mm to 40 mm.",
+      "Fully powder-coated"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SAECG",
+     "n": "Egg Crate Grilles",
+     "f": [
+      "High quality aluminium Extruded profiles with 37mm flange width frame as standard.",
+      "High free area core.",
+      "Minimized pressure drop."
+     ],
+     "pdf": null
+    }
+   ]
+  },
+  {
+   "c": "Diffusers",
+   "p": [
+    {
+     "code": "SA-LND",
+     "n": "Linear Diffusers",
+     "f": [
+      "Maximum Air Distribution",
+      "Superior Ambience",
+      "Robust Extruded Al Construction",
+      "Finished with Epoxy Powder Coating"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SARCD-FL",
+     "n": "Flush Type Rectangular Ceiling Diffusers",
+     "f": [
+      "High Grade Extruded Al construction",
+      "Superior Ambience",
+      "Suitable for varied applications",
+      "Available in various sizes"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SARCD-PL",
+     "n": "Rectangular Ceiling Diffusers Plague type",
+     "f": [
+      "High Grade Extruded Al construction",
+      "Superior Ambience",
+      "Suitable for varied applications",
+      "Available in various sizes"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SASWD-SQ",
+     "n": "Squared Faced Swirl Diffusers",
+     "f": [
+      "Aerodynamic design",
+      "Highly Efficient Radial flow",
+      "Available in various sizes",
+      "Finished with epoxy powder coating"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SACRD",
+     "n": "Circular Diffusers",
+     "f": [
+      "Superior Quality",
+      "Highly compact and modular",
+      "Robust Aluminium Spinning Construction",
+      "Available in various sizes"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SACSD",
+     "n": "Circular Spot Diffusers",
+     "f": [
+      "Superior design",
+      "Modular construction",
+      "Available in various sizes",
+      "Finished with Epoxy Powder Coating"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SACED",
+     "n": "Circular Eyeball Diffusers",
+     "f": [
+      "Highly Efficient Radial flow",
+      "Available in various sizes",
+      "Rigid Construction",
+      "Finished with epoxy powder coating"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SACJD",
+     "n": "Circular Jet Diffusers",
+     "f": [
+      "Superior design",
+      "Modular construction",
+      "Available in various sizes",
+      "Finished with Epoxy Powder Coating"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SA-SLD",
+     "n": "Slot Diffusers",
+     "f": [
+      "New Design",
+      "Available in various sizes",
+      "Finished with Epoxy Powder Coating",
+      "High ambience quotient"
+     ],
+     "pdf": null
+    }
+   ]
+  },
+  {
+   "c": "Exhaust Valves",
+   "p": [
+    {
+     "code": "SAEXV",
+     "n": "Round Exhaust Valves",
+     "f": [
+      "Top notch Quality",
+      "Superior Design",
+      "Easy mounting",
+      "Available in various sizes"
+     ],
+     "pdf": "https://www.sagarair.com/_files/ugd/994b45_f4ed441f60134c989efdfe160c0015e8.pdf"
+    }
+   ]
+  },
+  {
+   "c": "Hygiene Accesories (Cleanroom HEPA Terminal)",
+   "p": [
+    {
+     "code": "SACHT",
+     "n": "Clean Room Terminals",
+     "f": [
+      "Superior Design",
+      "Suit various applications",
+      "Low Leakages",
+      "Finished with Polyester Powder Coating of desired shade"
+     ],
+     "pdf": null
+    }
+   ]
+  },
+  {
+   "c": "Duct Connectors",
+   "p": [
+    {
+     "code": "SAFDC-RC",
+     "n": "Rectangular Flexible Duct Connectors",
+     "f": [
+      "Effective Isolation of duct system from vibrations",
+      "Made of high quality canvas",
+      "Available in various sizes Can be fabricated to fit Rectangular duct system."
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SAFDC-RO",
+     "n": "Round Flexible Duct Connectors",
+     "f": [
+      "Effective Isolation of duct system from vibrations",
+      "Made of high quality canvas",
+      "Available in various sizes",
+      "Can be fabricated to fit Round duct system."
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SAFDC-RX",
+     "n": "Square to Round Duct Connectors",
+     "f": [
+      "Specialty duct piece",
+      "A fully durable duct piece",
+      "Available in various sizes",
+      "Very low leakage"
+     ],
+     "pdf": null
+    }
+   ]
+  },
+  {
+   "c": "Dampers",
+   "p": [
+    {
+     "code": "SAVCD-3V",
+     "n": "GI Volume Control Dampers with 3V blades",
+     "f": [
+      "Rigid GI Construction",
+      "Superior Blade Design",
+      "High Durability",
+      "Available in Various sizes"
+     ],
+     "pdf": "https://www.sagarair.com/_files/ugd/994b45_006d9540c85b4db0bf26b151bd3be54d.pdf"
+    },
+    {
+     "code": "SAVCD-3V-TDF",
+     "n": "Volume Control Dampers with TDF Flange",
+     "f": [
+      "TDF Type Flange Corners",
+      "Robust Construction",
+      "Superior Blade Design",
+      "Available in various sizes"
+     ],
+     "pdf": "https://www.sagarair.com/_files/ugd/994b45_006d9540c85b4db0bf26b151bd3be54d.pdf"
+    },
+    {
+     "code": "SAVCD-RD",
+     "n": "Round Volume Control Dampers",
+     "f": [
+      "Rigid GI Construction",
+      "Superior Blade Design",
+      "Low Leakage",
+      "Available in various diameters"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SAVCD-AL",
+     "n": "Aluminium Volume Control Dampers",
+     "f": [
+      "Rigid Heavy gauge Aluminium construction",
+      "Minimum leakage design",
+      "High Durability",
+      "Available in various sizes"
+     ],
+     "pdf": "https://www.sagarair.com/_files/ugd/994b45_006d9540c85b4db0bf26b151bd3be54d.pdf"
+    },
+    {
+     "code": "SAVCD-IS",
+     "n": "Integrated Spigot VCDs",
+     "f": [
+      "Robust GI Construction",
+      "Superior Spigot design",
+      "High durability",
+      "Low leakages"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SAVCD-TP",
+     "n": "Temperature Dependent Automatic VCD",
+     "f": [
+      "Robust Construction",
+      "Motorised Actuator with Controller",
+      "High durability",
+      "Plug and Play"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SAVCD-BF",
+     "n": "Butterfly Dampers",
+     "f": [
+      "Superior Design",
+      "Low Leakage",
+      "Easy Installation",
+      "Available in various sizes"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SABDD",
+     "n": "Backdraft Dampers",
+     "f": [
+      "High Quality GI construction",
+      "Durable Blades",
+      "Available in various sizes",
+      "Available in various powder coating options"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SAPRD",
+     "n": "Pressure Relief Dampers",
+     "f": [
+      "Robust Extruded Aluminium Construction",
+      "Capable of regulating a wide range of duct pressures",
+      "Available in various sizes"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SACOD",
+     "n": "Collar Dampers",
+     "f": [
+      "Modular design",
+      "Rich Al or GI construction",
+      "Available in various sizes Varies powder-coating options"
+     ],
+     "pdf": null
+    }
+   ]
+  },
+  {
+   "c": "Fire and Smoke Equipments",
+   "p": [
+    {
+     "code": "SAFSD-DM / WM",
+     "n": "Fusible Link Fire Dampers",
+     "f": [
+      "Robust GI Construction",
+      "As per UL-555 Standards",
+      "Superior design",
+      "Available in various sizes"
+     ],
+     "pdf": null
+    }
+   ]
+  },
+  {
+   "c": "Louvres",
+   "p": [
+    {
+     "code": "SAAL-AL",
+     "n": "Aluminium Extruded Thin Louvres",
+     "f": [
+      "Extruded Aluminium Construction",
+      "Easy Installation Ideal for Curtain walls , windows , door installations",
+      "Available in various sizes"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SAAL-GR",
+     "n": "Rectangular Gravity Louvres",
+     "f": [
+      "Superior Design",
+      "Easy Installation",
+      "Robust GI Construction",
+      "Available in various sizes"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SAAL-SL",
+     "n": "Stationary louvres - Steel",
+     "f": [
+      "Robust Construction",
+      "Modular & Compact",
+      "Superior Design",
+      "Available in various sizes"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SAAL-ST",
+     "n": "Sand Trap louvres",
+     "f": [
+      "Superior dust load reducing capacity 2 stage baffle arrangement",
+      "High-Quality Al Construction",
+      "Available in various sizes"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SAAL-AC",
+     "n": "Acoustic Stationary Louvres",
+     "f": [
+      "Optimum Sound Attenuation",
+      "Superior insulation from noise",
+      "Easy installation",
+      "Available in various sizes"
+     ],
+     "pdf": null
+    },
+    {
+     "code": "SAAL-C",
+     "n": "Circular louvres",
+     "f": [
+      "High quality Aluminium construction",
+      "Superior design",
+      "Easy Installation",
+      "Available in various sizes"
+     ],
+     "pdf": null
+    }
+   ]
+  }
+ ],
+ "airIntro": [
+  "Sagar Air reliable and energy-efficient Air Distribution Systems has been established and is a trusted name in the industry for all Air Treatment Applications.",
+  "These are compact and modular units, which are designed as per your need for various air volumes and static pressures."
+ ],
+ "contact": {
+  "address": "Plot No.96-97, IDA Uppal, Hyderabad-500039, Telangana, INDIA",
+  "emails": [
+   "sales@sagarair.com",
+   "sagarair@gmail.com",
+   "info@sagarair.com"
+  ],
+  "tel": "040-2720-1792",
+  "mobile": "+91-70933-33687 / +91-70933-33689",
+  "fax": "040-2720-4837",
+  "careers": "careers@sagarair.com"
+ },
+ "links": [
+  [
+   "Download Center",
+   "All brochures, data sheets and manuals",
+   "https://www.sagarair.com/download-center",
+   "download brochures pdf catalogue manuals"
+  ],
+  [
+   "Quality Policy",
+   "Our commitment to quality",
+   "https://www.sagarair.com/qualitypolicy",
+   "iso quality standards"
+  ],
+  [
+   "Safety Policy",
+   "Health and safety at Sagar Air",
+   "https://www.sagarair.com/safetypolicy",
+   "safety ehs"
+  ],
+  [
+   "Service portal login",
+   "Raise and track service tickets (ERPNext)",
+   "https://sagarair.frappe.cloud/login#login",
+   "service support ticket complaint erp login"
+  ],
+  [
+   "Dehumidifier survey sheet",
+   "Tell us about your site for sizing",
+   "https://www.sagarair.com/dehumidifier-survey-sheet",
+   "survey sizing form requirement"
+  ],
+  [
+   "Company presentation",
+   "Sagar Air corporate presentation",
+   "https://prezi.com/view/MVTgDho831TaztTOfysu/",
+   "presentation profile corporate"
+  ],
+  [
+   "Case studies",
+   "Projects delivered across industries",
+   "https://www.sagarair.com/case-studies",
+   "projects references case study"
+  ],
+  [
+   "Rental HVAC solutions",
+   "Dehumidifier and AHU rental services",
+   "https://www.sagarair.com/rental-hvac-solutions",
+   "rent hire rental temporary"
+  ]
+ ]
+}

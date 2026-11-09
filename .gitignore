@@ -1,0 +1,54 @@
+# ── Dependencies ──────────────────────────────
+node_modules/
+.pnpm-store/
+
+# ── Build output (rebuilt by `npm run build`) ─
+dist/
+dist-ssr/
+*.local
+
+# ── Vite / tooling caches ─────────────────────
+.vite/
+.cache/
+.eslintcache
+.stylelintcache
+*.tsbuildinfo
+
+# ── Environment & secrets (never commit) ──────
+.env
+.env.*
+!.env.example
+
+# ── Logs ──────────────────────────────────────
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ── Test & coverage reports ───────────────────
+coverage/
+playwright-report/
+test-results/
+
+# ── Editors & OS files ────────────────────────
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Deploy tooling ────────────────────────────
+.vercel/
+.netlify/
+
+# ── Source artwork (keep the generated frames in public/frames, not the master video) ─
+*.mp4
+*.mov
+*.zip
+
+# Note: public/frames/** IS committed: the site needs these images at runtime.
